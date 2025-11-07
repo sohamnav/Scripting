@@ -3,5 +3,7 @@ echo "I am from Young minds"
 echo "We are from batch-27" 
 echo "I am learning Git/Github"
 echo "I have added new code"
+echo "This is conflicted area for Soham1"
 echo "This is a conflicted area for Soham2"
 echo "Also additional data for conflict here"
+
